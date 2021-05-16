@@ -2,7 +2,7 @@
 
 🚀 Merhaba,
 
-👉 Bu kısımda "Hafta 1"'de yer alan problem setlerinin çözümlerine ulaşabilirsiniz.
+👉 Bu kısımda "Hafta 1"de yer alan problem setlerinin çözümlerine ulaşabilirsiniz.
 
 ## Problem Setleri
 

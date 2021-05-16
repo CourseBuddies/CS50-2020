@@ -8,11 +8,11 @@
 
 - [Hafta 1](hafta-1/)
 
-- Hafta 2
+- [Hafta 2](hafta-2)
 
-- Hafta 3
+- [Hafta 3](hafta-3/)
 
-- Hafta 4
+- [Hafta 4](hafta-4/)
 
 - Hafta 5
 
