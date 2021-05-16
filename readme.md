@@ -4,9 +4,9 @@ Merhaba,
 
 Bu repository ile CS50 2020'de yer alan problem setlerinin çözümlerine ulaşabilirsin. Çözümlerin tamamı CodeCraft ekibi tarafından hazırlanmıştır.
 
-##  Çözümler
+##  Haftalar
 
-- Hafta 1
+- [Hafta 1](hafta-1/)
 
 - Hafta 2
 
