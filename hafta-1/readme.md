@@ -1,14 +1,14 @@
 # Hafta 1 Problem Setleri
 
-Merhaba,
+🚀 Merhaba,
 
-Bu kısımda "Hafta 1"'de yer alan problem setlerinin çözümlerine ulaşabilirsiniz.
+👉 Bu kısımda "Hafta 1"'de yer alan problem setlerinin çözümlerine ulaşabilirsiniz.
 
 ## Problem Setleri
 
 - [Hello](hello/) 
-- Mario
-- Mario Advanced
-- Cash 
-- Credit
+- [Mario](mario/)
+- [Mario Advanced](mario-advanced/)
+- [Cash](cash/) 
+- [Credit](credit/)
 

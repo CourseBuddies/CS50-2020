@@ -1,8 +1,8 @@
 # CS50 2020
 
-Merhaba,
+🚀 Merhaba,
 
-Bu repository ile CS50 2020'de yer alan problem setlerinin çözümlerine ulaşabilirsin. Çözümlerin tamamı CodeCraft ekibi tarafından hazırlanmıştır.
+👉 Bu repository ile CS50 2020'de yer alan problem setlerinin çözümlerine ulaşabilirsin. Çözümlerin tamamı CodeCraft ekibi tarafından hazırlanmıştır.
 
 ##  Haftalar
 
