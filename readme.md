@@ -14,9 +14,9 @@
 
 - [Hafta 4](hafta-4/)
 
-- Hafta 5
+- [Hafta 5](hafta-5/)
 
-- Hafta 6
+- [Hafta 6](hafta-6/)
 
   
 

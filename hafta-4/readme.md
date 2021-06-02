@@ -6,5 +6,5 @@
 
 ## Problem Setleri
 
-- Speller
+- [Speller](speller/)
 
